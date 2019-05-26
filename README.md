@@ -14,8 +14,7 @@ Download the .gpl file to your machine for your preferred art program, or open t
 
 ### Spronget21
 
-[File](spronget21/spronget21.gpl)
-
+[.gpl](spronget21/spronget21.gpl)
 
 ## Contributing
 
