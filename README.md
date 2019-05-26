@@ -1,6 +1,6 @@
 # Palettes
 
-> Collection of color palettes for use in web & art - sprngr/palettes
+> Collection of color palettes for use in web & art
 
 This repository houses palettes I've created for uses such as web or pixel art.
 
