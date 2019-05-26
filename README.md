@@ -14,7 +14,7 @@ Download the .gpl file to your machine for your preferred art program, or open t
 
 ### Spronget21
 
-[.gpl](spronget21/spronget21.gpl)
+[.png](spronget21/sponget21.png) | [.gpl](spronget21/spronget21.gpl) | [.hex](spronget21/spronget21.hex)
 
 ## Contributing
 
