@@ -8,7 +8,7 @@ All palette files are free for use under [Creative Commons](LICENSE).
 
 ## Install
 
-Download the .gpl file to your machine for your preferred art program, or open the file to pick out the colors you wish to use.
+Download the appropriate file to your machine for your preferred art program, or open the file to pick out the colors you wish to use.
 
 ## Palettes
 
@@ -18,7 +18,7 @@ Download the .gpl file to your machine for your preferred art program, or open t
 
 ## Contributing
 
-If I miss attribute or you feel an something can be made better within the repo:
+If I miss attribute someone or you feel something can be made better within the repo:
 
 [Open an issue](https://github.com/sprngr/palettes/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) or [submit a PR](https://github.com/sprngr/palettes/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc).
 
