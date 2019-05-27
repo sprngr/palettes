@@ -12,9 +12,11 @@ Download the appropriate file to your machine for your preferred art program, or
 
 ## Palettes
 
-### Spronget21
+### Spronget21 - 21 colors
 
-[.png](spronget21/sponget21.png) | [.gpl](spronget21/spronget21.gpl) | [.hex](spronget21/spronget21.hex)
+Files: [.png](spronget21/sponget21.png) | [.gpl](spronget21/spronget21.gpl) | [.hex](spronget21/spronget21.hex)
+
+![Spronget21 Sample](https://raw.githubusercontent.com/sprngr/images/master/palettes/spronget21.png)
 
 ## Contributing
 
