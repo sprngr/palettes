@@ -20,7 +20,7 @@ Files: [.png](spronget21/sponget21.png) | [.gpl](spronget21/spronget21.gpl) | [.
 
 ## Contributing
 
-If I miss attribute someone or you feel something can be made better within the repo:
+If I misattribute someone or you feel something can be made better within the repo:
 
 [Open an issue](https://github.com/sprngr/palettes/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) or [submit a PR](https://github.com/sprngr/palettes/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc).
 
