@@ -1,4 +1,4 @@
-# Palettes
+# palettes
 
 > Collection of color palettes for use in web & art
 
@@ -6,11 +6,11 @@ This repository houses palettes I've created for uses such as web or pixel art.
 
 All palette files are free for use under [Creative Commons](LICENSE).
 
-## Install
+## Usage
 
 Download the appropriate file to your machine for your preferred art program, or open the file to pick out the colors you wish to use.
 
-## Palettes
+## Palette Files
 
 ### Spronget21 - 21 colors
 
